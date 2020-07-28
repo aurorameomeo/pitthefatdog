@@ -1,0 +1,19 @@
+<label>Password:</label>
+<input type="password" name="pwd">
+<input type="submit" name="Submit">
+<br>
+<br>
+<label>Upload a file:</label>
+<input type="file"name="file">
+<br>
+<br>
+<input type="radio" id="radio">
+<label for="radio">Subscribe me to spammy Pit emails</label>
+<br>
+<br>
+<label>Select a date:</label>
+<input type="date">
+<br>
+<br>
+<label>Volume</label>
+<input type="range" id="Volume" name="Volume" min="0" max="10">
